@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Stint+Ultra+Condensed&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+body {
+  font-family: 'Stint Ultra Condensed', cursive;
+  background-color: #F1FAEE;
+  color: black;
+}
+
+h1 {
+  font-family: 'Stint Ultra Condensed', cursive;
+  padding: 20px;
+}
+
+p {
+  font-family: 'Stint Ultra Condensed', cursive;
+  font-size: 20px;
+  margin: auto;
+  padding-top: 50px;
+  padding-right: 400px;
+  padding-left: 400px;
+}
+
+a {
+  color: black;
+}
+
+a:visited {
+  color: pink;
+}
+
+.footnote p {
+  font-weight: 100;
+}
+
+main {}
